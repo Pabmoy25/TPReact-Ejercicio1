@@ -24,5 +24,5 @@ npm run dev //para comenzar a ejecutar el proyecto en modo desarrollo
 
 ## Deploy del Proyecto
 
-- reactejercicio1.netlify.app
+- https://reactejercicio1.netlify.app/
 
