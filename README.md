@@ -15,7 +15,7 @@ Crear una aplicación web con un componente que muestre en pantalla el mensaje
 
 - git clone https://github.com/Pabmoy25/TPReact-Ejercicio1.git
 
-Luego de clonar, seguir los siguientes pasos:
+Luego de clonar, seguir los siguientes pasos en el editor de código:
 
 ```
 npm install //para instalar las dependencias
@@ -24,5 +24,5 @@ npm run dev //para comenzar a ejecutar el proyecto en modo desarrollo
 
 ## Deploy del Proyecto
 
-- 
+- reactejercicio1.netlify.app
 
