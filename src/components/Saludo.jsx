@@ -1,8 +1,8 @@
 const Saludo = () => {
     return (
-        <div>
-            
-        </div>
+        <section>
+            <h2>Hello World!</h2>
+        </section>
     );
 };
 
