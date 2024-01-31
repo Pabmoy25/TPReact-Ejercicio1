@@ -1,4 +1,4 @@
-# TP React - Ejercicio 1 - Lista de tareas 
+# TP React - Ejercicio 1 - Hello World! 
 
 ## Descripcion
 
